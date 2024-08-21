@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`http://top10z.great-site.net/top10z.great-site.net` + encodeURI(path as string)
+					`https://www.highratecpm.com/i5hwaazk?key=a259f1f4614fcbedfadecf37deac252c
 				}`,
 			},
 		};
